@@ -1,0 +1,8 @@
+h2. Скачать
+
+Последняя версия шпаргалки в PDF доступна "по ссылке":https://github.com/downloads/drakulavich/russian-bash-cheatsheet/rbc.pdf.
+
+h2. Благодарности
+
+* Персональное «спасибо» "vonderer":http://vonderer.blogspot.com/ за макет страницы для шпаргалки, подбор шрифтов и дельные советы.
+* Комментаторам из "Google Buzz":http://www.google.com/profiles/Dr.AKULAvich#buzz за полезные замечания.
