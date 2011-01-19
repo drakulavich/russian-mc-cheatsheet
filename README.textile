@@ -1,8 +1,10 @@
 h2. Скачать
 
-Последняя версия шпаргалки в PDF доступна "по ссылке":https://github.com/downloads/drakulavich/russian-mc-cheatsheet/rmc2.pdf.
+Последняя версия шпаргалки в PDF доступна "по ссылке":https://github.com/downloads/drakulavich/russian-mc-cheatsheet/rmc.pdf.
 
 h2. Благодарности
 
+* Разработчикам mc за отличный продукт.
+* Костромину В.А. и Самойлову А.В. за перевод man страницы mc.
 * Персональное «спасибо» "vonderer":http://vonderer.blogspot.com/ за макет страницы для шпаргалки, подбор шрифтов и дельные советы.
 * Комментаторам из "Google Buzz":http://www.google.com/profiles/Dr.AKULAvich#buzz за полезные замечания.
