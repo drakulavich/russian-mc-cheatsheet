@@ -1,6 +1,6 @@
 h2. Скачать
 
-Последняя версия шпаргалки в PDF доступна "по ссылке":https://github.com/downloads/drakulavich/russian-mc-cheatsheet/rmc.pdf.
+Последняя версия шпаргалки в PDF доступна "по ссылке":https://github.com/drakulavich/russian-mc-cheatsheet/releases/latest/download/rmc.pdf.
 
 h2. Благодарности
 
